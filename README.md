@@ -8,10 +8,13 @@ Must-have Scripts, basic Commands, and other goodies for the amazingly powerful 
 	<h2 style="display:inline;" id="toc">Table of Contents</h2>
 </summary>
 
-### &#160;&#160;&#160;&#160; Section
+### Section
 - Item
 
 </details>
+
+
+
 
 <br >
 
@@ -24,5 +27,5 @@ Wondering what kind of 'goodies' are included? Here are the highlights:
 
 
 
-## [Setup Scripts](URL)
+## Setup Scripts
 
